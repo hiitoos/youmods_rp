@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "unnamed",
+    "customModelName": "Normal",
+    "name": "Police Baton",
+    "creativeTab": {
+      "value": "CUSTOM:YouModsRP"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 50,
+    "efficiency": 4.0,
+    "attackSpeed": 18.0,
+    "enchantability": 0,
+    "damageVsEntity": 1.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "onEntityHitWith": {
+      "name": "BatonMobIsHitWithTool"
+    }
+  }
+}

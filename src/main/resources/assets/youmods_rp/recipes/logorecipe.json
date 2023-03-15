@@ -1,0 +1,34 @@
+{
+  "group": "youmods_rp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:dye",
+      "data": 8
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "4": {
+      "item": "minecraft:glass_pane"
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 11
+    },
+    "7": {
+      "item": "minecraft:dye",
+      "data": 2
+    }
+  },
+  "result": {
+    "item": "youmods_rp:logo",
+    "count": 1
+  }
+}

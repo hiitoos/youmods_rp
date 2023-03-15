@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "police_helmet",
+    "enableBody": true,
+    "textureBody": "body_policeman",
+    "enableLeggings": true,
+    "textureLeggings": "police_leggins",
+    "enableBoots": true,
+    "textureBoots": "police_boots",
+    "creativeTab": {
+      "value": "CUSTOM:YouModsRP"
+    },
+    "armorTextureFile": "core_",
+    "helmetName": "Police Helmet",
+    "bodyName": "Police Body",
+    "leggingsName": "Police Leggings",
+    "bootsName": "Police Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 10,
+    "damageValueHelmet": 2,
+    "damageValueBody": 2,
+    "damageValueLeggings": 2,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_chain"
+    },
+    "repairItems": []
+  }
+}

@@ -1,0 +1,52 @@
+Unsupposrted library path: C:\Users\USUARIO\Desktop\youmods_rp\build\classes\java\api
+Unsupposrted library path: C:\Users\USUARIO\Desktop\youmods_rp\build\resources\api
+Symbol range map extraction starting
+Processing 16 files
+startProcessing "net/mcreator/youmods_rp/ClientProxyYouModsRP.java" md5: f1b21db87eaceaa006349913bb3100ad
+endProcessing "net/mcreator/youmods_rp/ClientProxyYouModsRP.java"
+
+startProcessing "net/mcreator/youmods_rp/ElementsYouModsRP.java" md5: dc15b349ea75535bc238b4edd794b0a9
+endProcessing "net/mcreator/youmods_rp/ElementsYouModsRP.java"
+
+startProcessing "net/mcreator/youmods_rp/IProxyYouModsRP.java" md5: 4e3d89554759a854d69d81e41d15e04e
+endProcessing "net/mcreator/youmods_rp/IProxyYouModsRP.java"
+
+startProcessing "net/mcreator/youmods_rp/ServerProxyYouModsRP.java" md5: 2456a8c8a2cb5f7e9fbc1f61af421261
+endProcessing "net/mcreator/youmods_rp/ServerProxyYouModsRP.java"
+
+startProcessing "net/mcreator/youmods_rp/YouModsRP.java" md5: 4b362446c3b8ce521c2a60d2457660d9
+endProcessing "net/mcreator/youmods_rp/YouModsRP.java"
+
+startProcessing "net/mcreator/youmods_rp/YouModsRPVariables.java" md5: 708a6be51007dfd261c0a147026819d2
+endProcessing "net/mcreator/youmods_rp/YouModsRPVariables.java"
+
+startProcessing "net/mcreator/youmods_rp/block/BlockLogoOre.java" md5: b5aa76b3453bfb65f947fb64c7bc8649
+endProcessing "net/mcreator/youmods_rp/block/BlockLogoOre.java"
+
+startProcessing "net/mcreator/youmods_rp/creativetab/TabYouModsRP.java" md5: a86144130ca0949920b299641d21a7c0
+endProcessing "net/mcreator/youmods_rp/creativetab/TabYouModsRP.java"
+
+startProcessing "net/mcreator/youmods_rp/item/ItemBaton.java" md5: a946d1181da7023a27b8e893baaf9ff7
+endProcessing "net/mcreator/youmods_rp/item/ItemBaton.java"
+
+startProcessing "net/mcreator/youmods_rp/item/ItemBronzecoin.java" md5: 7f18386cab04b0f0ddfba5fc61ca5112
+endProcessing "net/mcreator/youmods_rp/item/ItemBronzecoin.java"
+
+startProcessing "net/mcreator/youmods_rp/item/ItemDiamondcoin.java" md5: 940069ad8046f152073fa586358fa163
+endProcessing "net/mcreator/youmods_rp/item/ItemDiamondcoin.java"
+
+startProcessing "net/mcreator/youmods_rp/item/ItemGoldcoin.java" md5: 9450da52332bd949ddf939cc20ee0e30
+endProcessing "net/mcreator/youmods_rp/item/ItemGoldcoin.java"
+
+startProcessing "net/mcreator/youmods_rp/item/ItemLogo.java" md5: 2b09b8adb8168b8c83fb00409fc74c3f
+endProcessing "net/mcreator/youmods_rp/item/ItemLogo.java"
+
+startProcessing "net/mcreator/youmods_rp/item/ItemPoliceArmor.java" md5: 09695b692222ffc90a848f8f0b54e300
+endProcessing "net/mcreator/youmods_rp/item/ItemPoliceArmor.java"
+
+startProcessing "net/mcreator/youmods_rp/item/ItemSilvercoin.java" md5: cb8dcae1a3177efa919d525549d15248
+endProcessing "net/mcreator/youmods_rp/item/ItemSilvercoin.java"
+
+startProcessing "net/mcreator/youmods_rp/procedure/ProcedureBatonMobIsHitWithTool.java" md5: ff86212780b91e37007a3d876a08a3c2
+endProcessing "net/mcreator/youmods_rp/procedure/ProcedureBatonMobIsHitWithTool.java"
+

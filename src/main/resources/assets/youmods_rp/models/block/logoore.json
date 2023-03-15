@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "youmods_rp:blocks/logo",
+    "up": "youmods_rp:blocks/logo",
+    "north": "youmods_rp:blocks/logo",
+    "east": "youmods_rp:blocks/logo",
+    "south": "youmods_rp:blocks/logo",
+    "west": "youmods_rp:blocks/logo",
+    "particle": "youmods_rp:blocks/logo"
+  }
+}

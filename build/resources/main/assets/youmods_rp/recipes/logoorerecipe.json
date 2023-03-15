@@ -1,0 +1,19 @@
+{
+  "group": "youmods_rp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:item_frame"
+    },
+    "1": {
+      "item": "youmods_rp:logo"
+    }
+  },
+  "result": {
+    "item": "youmods_rp:logoore",
+    "count": 1
+  }
+}

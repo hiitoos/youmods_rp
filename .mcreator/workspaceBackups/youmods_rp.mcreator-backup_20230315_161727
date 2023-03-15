@@ -1,0 +1,147 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Bronzecoin",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_coin"
+    },
+    {
+      "name": "Silvercoin",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_coin"
+    },
+    {
+      "name": "Goldcoin",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_coin"
+    },
+    {
+      "name": "Diamondcoin",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_coin"
+    },
+    {
+      "name": "Logo",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LogoRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LogoOre",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LogoOreRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "YouModsRP",
+      "type": "tab",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Baton",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BatonMobIsHitWithTool",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.silver_coin.name": "Silver coin",
+      "item.gold_coin.name": "Gold coin",
+      "item.bronze_coin.name": "Bronze coin",
+      "item.baton.name": "Police Baton",
+      "tile.logoore.name": "Logo Ore",
+      "item.diamond_coin.name": "Diamond coin",
+      "item.logo.name": "YouLog",
+      "itemGroup.tabyoumodsrp": "YouModsRP"
+    },
+    "es_es": {
+      "item.silver_coin.name": "Moneda de plata",
+      "item.gold_coin.name": "Moneda de oro",
+      "item.bronze_coin.name": "Moneda de bronce",
+      "item.baton.name": "Porra de Policia",
+      "tile.logoore.name": "Logo Ore",
+      "item.diamond_coin.name": "Moneda de diamante",
+      "item.logo.name": "YouLog",
+      "itemGroup.tabyoumodsrp": "YouModsRP"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "youmods_rp",
+    "modName": "YouMods_RP",
+    "version": "1.0.0",
+    "author": "xNooBye87, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.youmods_rp",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
